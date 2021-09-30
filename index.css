@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #007c41;
+    color: aliceblue;
+}
+
+header{
+    background-color: rgba(255, 219, 5, 0.82);
+}
+
+h1{
+    padding: 1rem;
+    font-size: 1.75em;
+    text-align: center;
+    text-shadow: 2px 2px #000;
+}
+
+hr{
+    padding: 1rem;
+}
+
+p{
+    padding: 1rem;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #ffdb05;
+}
